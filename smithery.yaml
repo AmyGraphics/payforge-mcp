@@ -1,0 +1,26 @@
+name: payforge-mcp
+displayName: PayForge - Autonomous SaaS Monetization, Stripe Integration & Revenue Engine MCP
+description: Universal revenue engine for Cursor, Claude Code & Windsurf. Architects complete monetization blueprints (pricing model matrix, Stripe vs Paddle vs Lemon Squeezy merchant-of-record comparison, concrete tier design), generates production payment code (Checkout sessions, bulletproof webhook handlers with signature verification and idempotency, customer portals), implements subscription lifecycles (trials, proration, dunning that recovers 30-50% of failed payments, win-back flows), builds usage-based billing (metering architecture, credit packs, hybrid plans, bill-shock prevention), and prepares revenue operations (global tax strategy, chargeback defense, MRR/churn/LTV instrumentation).
+category: developer-tools
+homepage: https://github.com/AmyGraphics/payforge-mcp
+repository: https://github.com/AmyGraphics/payforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/payforge-mcp/main/icon.png
+keywords:
+  - stripe
+  - payments
+  - subscriptions
+  - billing
+  - saas-monetization
+  - usage-based-billing
+  - webhooks
+  - dunning
+  - mrr
+  - paddle
+  - revenue
+  - pricing
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://payforge-api.agentweb-hub.workers.dev/mcp

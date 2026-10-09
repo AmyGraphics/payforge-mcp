@@ -1,0 +1,9 @@
+{
+  "name": "payforge-mcp",
+  "version": "1.0.0",
+  "description": "Autonomous SaaS Monetization, Stripe Integration, Subscription Lifecycle, Usage-Based Billing & Revenue Operations Engine MCP for Cursor, Claude & Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
