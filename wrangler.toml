@@ -1,0 +1,8 @@
+name = "payforge-api"
+main = "src/index.js"
+compatibility_date = "2024-04-01"
+
+[vars]
+ENVIRONMENT = "production"
+WALLET_ADDRESS = "8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ"
+GUMROAD_URL = "https://amygraphics.gumroad.com/l/mcp-pro"

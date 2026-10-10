@@ -1,3 +1,9 @@
+## 🔴 NEW in v1.1 — Live Tool: `convert_currency_live`
+
+Converts any amount between 30+ currencies using REAL European Central Bank reference rates fetched live from the keyless Frankfurter API: exact conversion, rate date, and inverse rate.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
